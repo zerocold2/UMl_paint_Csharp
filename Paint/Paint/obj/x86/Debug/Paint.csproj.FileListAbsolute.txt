@@ -1,0 +1,38 @@
+c:\users\zc\documents\visual studio 2010\Projects\Paint\Paint\bin\Debug\Paint.exe
+c:\users\zc\documents\visual studio 2010\Projects\Paint\Paint\bin\Debug\Paint.pdb
+c:\users\zc\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zc\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.Form1.resources
+c:\users\zc\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+c:\users\zc\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\zc\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\zc\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.exe
+c:\users\zc\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.pdb
+E:\Paint\Paint\obj\x86\Debug\Paint.exe
+E:\Paint\Paint\bin\Debug\Paint.exe
+E:\Paint\Paint\bin\Debug\Paint.pdb
+E:\Paint\Paint\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Paint\Paint\obj\x86\Debug\Paint.Form1.resources
+E:\Paint\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+E:\Paint\Paint\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Paint\Paint\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Paint\Paint\obj\x86\Debug\Paint.pdb
+E:\ahmed\project back up\Paint\Paint\obj\x86\Debug\Paint.exe
+E:\ahmed\project back up\Paint\Paint\bin\Debug\Paint.exe
+E:\ahmed\project back up\Paint\Paint\bin\Debug\Paint.pdb
+E:\ahmed\project back up\Paint\Paint\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ahmed\project back up\Paint\Paint\obj\x86\Debug\Paint.Form1.resources
+E:\ahmed\project back up\Paint\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+E:\ahmed\project back up\Paint\Paint\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ahmed\project back up\Paint\Paint\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ahmed\project back up\Paint\Paint\obj\x86\Debug\Paint.pdb
+E:\ahmed\project back up\Old Saved\Paint\Paint\obj\x86\Debug\Paint.exe
+E:\ahmed\project back up\Old Saved\Paint\Paint\obj\x86\Debug\Paint.pdb
+E:\ahmed\project back up\Old Saved\Paint\Paint\bin\Debug\Paint.exe
+E:\ahmed\project back up\Old Saved\Paint\Paint\bin\Debug\Paint.pdb
+E:\ahmed\project back up\Old Saved\Paint\Paint\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ahmed\project back up\Old Saved\Paint\Paint\obj\x86\Debug\Paint.Form1.resources
+E:\ahmed\project back up\Old Saved\Paint\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+E:\ahmed\project back up\Old Saved\Paint\Paint\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ahmed\project back up\Old Saved\Paint\Paint\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\E\ahmed\project back up\Old Saved\Paint\Paint\obj\x86\Debug\Paint.exe
+D:\E\ahmed\project back up\Old Saved\Paint\Paint\obj\x86\Debug\Paint.pdb
