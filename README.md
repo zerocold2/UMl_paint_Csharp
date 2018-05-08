@@ -1,2 +1,2 @@
 # C-UMLtool
-Advanced paint using you can using to draw UML diagrams easy 
+This application is demonistrate the GDI+ library on C#
