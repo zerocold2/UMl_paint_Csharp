@@ -1,2 +1,2 @@
 # C-UMLtool
-This application is demonistrate the GDI+ library on C#
+This application is demonstrate the GDI+ library on C#
